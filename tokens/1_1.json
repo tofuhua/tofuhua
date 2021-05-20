@@ -1,6 +1,6 @@
 {
     "name":"hello",
     "description":"world",
-    "image":"",
+    "image":"https://raw.githubusercontent.com/tofuhua/tofuhua/master/images/vortex.png",
     "attributes":[]
 }
